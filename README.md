@@ -12,9 +12,7 @@ Junior Web Developer
 * ⚡  I love Anime.
 
 <a href="https://www.github.com/lucifer510" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lucifer510?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Mihir5102" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/lucifer510?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -38,6 +36,6 @@ src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lucifer510"><img src="https://github-readme-stats.vercel.app/api?username=lucifer510&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucifer510's GitHub stats" /></a>
+<a href="http://www.github.com/lucifer510"><img src="https://github-readme-stats.vercel.app/api?username=lucifer510&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucifer510's GitHub stats" /></a>
 
-<a href="https://github.com/lucifer510" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer510&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lucifer510" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer510&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
