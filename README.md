@@ -40,6 +40,4 @@ src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-
 
 <a href="http://www.github.com/lucifer510"><img src="https://github-readme-stats.vercel.app/api?username=lucifer510&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucifer510's GitHub stats" /></a>
 
-<a href="http://www.github.com/lucifer510"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucifer510&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/lucifer510" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer510&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
