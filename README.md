@@ -20,7 +20,8 @@ Junior Web Developer
 * ⚡  I love Anime.
 
 <a href="https://www.github.com/lucifer510" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lucifer510?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.twitter.com/Mihir5102" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lucifer510?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/Mihir5102" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 
@@ -43,6 +44,11 @@ src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-
 <p align="left"> <a href="https://www.codepen.io/lucifer510" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/prajapati.mihir.3762/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/lucifer510" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mihir__510" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mihir-prajapati-692142246/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mihir5102" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<p>
+    <a href="https://www.holopin.io/userbadge/clnai2yh414250fl67nnsswky" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="50" height="50"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln8vnsxx152990fjhj20ke078" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="50" height="50"/></a>
+</p>
 
 <b>My GitHub Stats</b>
 
