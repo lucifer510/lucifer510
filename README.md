@@ -51,6 +51,8 @@ src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-
     <a href="https://www.holopin.io/userbadge/clnbqul1603760fmem37yf6qc" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
     <a href="https://www.holopin.io/claim/clnd5nh6q11210fladsdoynv2" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
     <a href="https://www.holopin.io/userbadge/clnhiirnz321870fmpof7uqze7" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
+    <a href="https://www.holopin.io/userbadge/clnl6gg2n153210gmc1j5r73p9" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnl6714016830fjy1zlag77g" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level1-blue-cat-0-0.webp" width="50" height="50"/></a>
 </p>
 
 <b>My GitHub Stats</b>
