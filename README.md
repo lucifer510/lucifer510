@@ -47,12 +47,14 @@ src="https://img.shields.io/twitter/follow/Mihir5102?logo=twitter&style=for-the-
 
 <p>
     <a href="https://www.holopin.io/userbadge/clnai2yh414250fl67nnsswky" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="50" height="50"/></a>
-    <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln8vnsxx152990fjhj20ke078" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="50" height="50"/></a>
     <a href="https://www.holopin.io/userbadge/clnbqul1603760fmem37yf6qc" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
     <a href="https://www.holopin.io/claim/clnd5nh6q11210fladsdoynv2" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
     <a href="https://www.holopin.io/userbadge/clnhiirnz321870fmpof7uqze7" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
     <a href="https://www.holopin.io/userbadge/clnl6gg2n153210gmc1j5r73p9" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln8vnsxx152990fjhj20ke078" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="50" height="50"/></a>
     <a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnl6714016830fjy1zlag77g" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level1-blue-cat-0-0.webp" width="50" height="50"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnpmb1l348650fmdhi9luzgr" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level2-blue-cat-tshirt-0.webp" width="50" height="50"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnsfzvey84080fleggqa5fs7" target="_blank"><img src="https://assets.holopin.io/hf2023levels/level3-blue-cat-tshirt-crocs.webp" width="50" height="50"/></a>
 </p>
 
 <b>My GitHub Stats</b>
